@@ -143,7 +143,4 @@ Backtesting uses an 80/20 train-test split on historical data.
 ## 📝 Submission Notes
 
 - **Dataset link:** [Bitcoin Historical Data — Kaggle](https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024)
-- **Deadline:** 24 April 2026
-- **Constraints met:** Streamlit UI ✓ · Plotly charts ✓ · Prophet ✓ · ARIMA ✓ · pandas ✓ · Kaggle CSV ✓
-
 ---
