@@ -9,7 +9,7 @@ An interactive Streamlit web application for BTC time-series analysis and price 
 ### 1. Clone / Download
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd btc_forecaster
 ```
 
@@ -138,9 +138,4 @@ Backtesting uses an 80/20 train-test split on historical data.
 | NumPy | ≥1.26 | Numerical computation |
 | scikit-learn | ≥1.4 | Metrics utilities |
 
----
-
-## 📝 Submission Notes
-
-- **Dataset link:** [Bitcoin Historical Data — Kaggle](https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024)
 ---
