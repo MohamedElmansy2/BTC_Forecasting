@@ -9,7 +9,7 @@ An interactive Streamlit web application for BTC time-series analysis and price 
 ### 1. Clone / Download
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/MohamedElmansy2/BTC_Forecasting.git
 cd btc_forecaster
 ```
 
